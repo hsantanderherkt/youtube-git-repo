@@ -20,6 +20,7 @@ class cPais:
     
 oPais1=cPais("Alemania",2500000)
 oPais2=cPais("Ecuador",1500000)
+oPais3=cPais("Brasil",18000000)
 
 print("El país posee el número de habitantes:")
 print(oPais1.getHabitantes())
